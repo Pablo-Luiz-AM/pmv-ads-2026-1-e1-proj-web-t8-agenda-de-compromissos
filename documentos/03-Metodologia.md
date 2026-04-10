@@ -18,6 +18,8 @@ A equipe está estruturada da seguinte forma para garantir o fluxo de desenvolvi
 - Equipe de Desenvolvimento: William Rocha Dos Santos, responsáveis pela implementação técnica das funcionalidades de front-end e back-end do sistema.
 
 - Equipe de Design: Lucas Felipe dos Santos Lamarca, focados na experiência do usuário (UX) e interface (UI), garantindo que a visualização do calendário seja intuitiva.
+  
+- Equipe de Design: Marco Tulio Willig Dias Coelho, focados na experiência do usuário (UX) e interface (UI), garantindo que a visualização do calendário seja intuitiva.
 
 
 ### Processo
