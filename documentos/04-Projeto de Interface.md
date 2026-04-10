@@ -33,7 +33,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 
 <figure> 
-  <img width="1079" height="607" alt="image" src="https://github.com/user-attachments/assets/494066bb-f5c6-40ae-b66a-5098e9215de3" />
+<img width="1078" height="606" alt="image" src="https://github.com/user-attachments/assets/8eea0429-cbc4-44fe-83ad-79ed97a8b048" />
     <figcaption>Figura 2 - Estrutura padrão do site
 </figure> 
 <hr>
