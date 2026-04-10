@@ -9,7 +9,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ## Protótipo
 
-Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento. [Leia o artigo [Protótipos: baixa, média ou alta fidelidade?](https://medium.com/ladies-that-ux-br/prot%C3%B3tipos-baixa-m%C3%A9dia-ou-alta-fidelidade-71d897559135).]
+Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento.
 
 ### Protótipo de baixa fidelidade
 
@@ -31,7 +31,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 
 <h3><b>Tela - Login</b></h3>
-<p>A tela de Login page apresenta um metodo de autentificaçao para acessar a sua agenda. </p>
+<p>A tela de Login page apresenta um método de autenticação para acessar a sua agenda.</p>
   
 <img width="994" height="561" alt="image" src="https://github.com/user-attachments/assets/001249a6-da94-49ad-8c22-3734479349a9" />
 
@@ -40,7 +40,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 </figure> 
 <hr>
 <h3><b>Tela - Cadastro</b></h3>
-<p>A tela de Cadastro realiza um metodo de inscrisao em nossa site de agendas.</p>
+<p>A tela de Cadastro realiza um método de inscrição em nosso site de agendas.</p>
   
 <img width="999" height="562" alt="image" src="https://github.com/user-attachments/assets/ba8d7bff-6fd7-4469-9fb4-e343e950a0eb" />
 
@@ -49,7 +49,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 </figure> 
 <hr>
 <h3><b>Tela - Alterar Senha</b></h3>
-<p>A tela de Alterar Senha realiza um metodo de redefiniçao de senha.</p>
+<p>A tela de Alterar Senha realiza um método de redefinição de senha.</p>
   
 <img width="1001" height="564" alt="image" src="https://github.com/user-attachments/assets/57bca382-f13e-42f9-80c8-91e742a3603b" />
 
