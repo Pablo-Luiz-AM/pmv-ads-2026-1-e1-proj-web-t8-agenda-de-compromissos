@@ -32,4 +32,11 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 >> - [Figma](https://www.figma.com/)
 
 
+<figure> 
+  <img width="1079" height="607" alt="image" src="https://github.com/user-attachments/assets/494066bb-f5c6-40ae-b66a-5098e9215de3" />
+    <figcaption>Figura 2 - Estrutura padrão do site
+</figure> 
+<hr>
+
+
 
