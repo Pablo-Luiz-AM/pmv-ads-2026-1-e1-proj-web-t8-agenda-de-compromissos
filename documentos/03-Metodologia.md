@@ -40,7 +40,7 @@ Para o acompanhamento das tarefas, a equipe utiliza o GitHub Projects, configura
 
 - Done: Tarefas concluídas e integradas à versão principal do sistema.
 
-[Adicione uma imagem do Kanban do projeto]
+<img width="886" height="802" alt="image" src="https://github.com/user-attachments/assets/8ba56a23-bacd-40eb-ac85-d9eeecae0f3a" />
 
 > **Links Úteis**:
 > - [Planejamento de projetos para desenvolvedores](https://github.com/features/project-management/)
