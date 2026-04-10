@@ -5,7 +5,8 @@
 
 O fluxograma ilustrado na Figura 1 mapeia a jornada do usuário pelas interfaces do sistema. O detalhamento individual de cada tela pode ser consultado na seção Protótipo de Baixa Fidelidade a seguir. Para experimentar a navegação em tempo real, acesse o protótipo interativo através do link: [Figma](https://www.figma.com/)
 
-[Adicione aqui o diagrama de fluxo de usuário da sua aplicação.] 
+<img width="933" height="824" alt="image" src="https://github.com/user-attachments/assets/37d0b55b-c6af-4c48-89d1-314e414c66cb" />
+
 
 
 ### Protótipo de baixa fidelidade
