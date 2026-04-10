@@ -2,7 +2,6 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
 
 <table>
 <tbody>
@@ -37,25 +36,22 @@ horário, prioridade, e tipo de evento;
 
 ## Histórias de Usuários
 
-[Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
-
-> **Link Útil**:
-> - [Como escrever boas histórias de usuário](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-[Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
-
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
+| Agendador          | Anotar as datas de prova | Não me esquecer e ficar sem estudar |
+| Agendador          | Marcar um aviso de tempo restante para a entrega de trabalhos  | Não perder o prazo de entrega  |
+| Agendador          | Anotar o horário dos remédios e quais são | Não deixar de tomá-los |
+| Agendador          | Marcar minha consulta ao médico | Não as perder  |
+| Agendador          | Anotar uma rotina de estudos | Tornar o dia mais produtivo |
+| Agendador          | Organizar eventos dos filhos | Não me esquecer|
+| Agendador          | Anotar tarefas e horários a serem cumpridos| Ter organização da entrega da equipe |
+| Agendador          | Marcar, visualizar e alterar anotações, reuniões e eventos | Simplificar a rotina de trabalho |
+| Agendador          | Visualizar a rotina e anotações da semana | Aproveitar o tempo livre |
 
 ## Requisitos do Projeto
 
-[Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
 
 ### Requisitos Funcionais
-
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
@@ -72,11 +68,8 @@ horário, prioridade, e tipo de evento;
 | RF-11 |O sistema deve permitir que o usuário tenha a possibilidade de deixar a tarefa de forma recorrente| Baixa |
 | RF-12 |O sistema deve enviar as tarefas excluídas para uma lixeira deixando a possibilidade de restauração| Baixa |
 
-**Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
-
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
 
 |ID        | Descrição                                                                                                                             |Prioridade |
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------|----|
@@ -91,5 +84,4 @@ horário, prioridade, e tipo de evento;
 |  RNF-09  |  O sistema deve permitir fácil manutenção e atualização do código pelos desenvolvedores.                                                  | Alta  |
 |  RNF-10  |  A aplicação deve garantir boa legibilidade da interface, com contraste adequado entre textos e elementos visuais.                        | Alta  | 
 
-**Prioridade: Alta / Média / Baixa. 
 
