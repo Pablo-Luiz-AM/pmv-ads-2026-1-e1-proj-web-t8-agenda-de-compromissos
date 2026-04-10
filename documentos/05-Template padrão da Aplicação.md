@@ -37,14 +37,15 @@ Esta tela centraliza a organização pessoal do usuário através de quatro mód
 <h3><b>Tela de visualização de Tarefas</b></h3>
 <p>Exibe informações sobre as tarefas, a imagem da capa e o usuario com seu compromissos.</p>
 <figure> 
-  <img width="900" height="505" alt="image" src="https://github.com/user-attachments/assets/bf707430-934c-471d-899d-7506629db5d8" />
+  <img width="1100" height="621" alt="image" src="https://github.com/user-attachments/assets/fe6cf48f-84ed-40c9-a7d2-1b783be8d127" />
+
   <figcaption> Figura 1 - Tela de Tarefas
 </figure> 
 
 <h3><b>Tela de visualização do Calendario Semanal</b></h3>
 <p>Exibe informações sobre os seus compromissos semanais.</p>
 <figure> 
-<img width="902" height="508" alt="image" src="https://github.com/user-attachments/assets/f0f0d0c7-3ccd-405f-bedd-ee17160ed519" />
+<img width="1101" height="621" alt="image" src="https://github.com/user-attachments/assets/55c522a0-5d09-4d53-9a67-26f6601e4755" />
 
   <figcaption>Figura 2 - Calendario Semanal     
 </figure> 
