@@ -54,7 +54,8 @@ Esta tela centraliza a organização pessoal do usuário através de quatro mód
 <p>Para a criação do logotipo do site foi utilizada a cor amarela, pois esta cor remete a aspectos do conhecimento e sabedoria (PATEL, 2021). A utilização da imagem de um marca-texto foi escolhida por ser algo presente no dia-a-dia dos estudantes.</p>
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/blob/main/documentos/img/Marca texto.png" width="200" height="200">
-    <figcaption>Figura 3 - Logotipo da aplicação web Vida de Estudante
+  <img width="231" height="244" alt="image" src="https://github.com/user-attachments/assets/82f0b72f-7e50-4714-9f9b-c5757409d005" />
+
+    <figcaption>Figura 3 - Logotipo da aplicação web Technology Appointment Schedule
 </figure> 
 
