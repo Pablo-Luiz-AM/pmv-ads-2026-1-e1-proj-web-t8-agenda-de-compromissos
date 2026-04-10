@@ -51,7 +51,7 @@ Esta tela centraliza a organização pessoal do usuário através de quatro mód
 </figure> 
 <hr>
   
-<p>Para a criação do logotipo do site foi utilizada a cor amarela, pois esta cor remete a aspectos do conhecimento e sabedoria (PATEL, 2021). A utilização da imagem de um marca-texto foi escolhida por ser algo presente no dia-a-dia dos estudantes.</p>
+<p>A logo apresenta um ícone de calendário amarelo em estilo de linhas grossas, centralizado dentro de um círculo azul-marinho. Abaixo, o texto indica "Technology Appointment Schedule", combinando as cores branco, azul e amarelo sobre um fundo azul vibrante.</p>
 
 <figure> 
   <img width="231" height="244" alt="image" src="https://github.com/user-attachments/assets/82f0b72f-7e50-4714-9f9b-c5757409d005" />
