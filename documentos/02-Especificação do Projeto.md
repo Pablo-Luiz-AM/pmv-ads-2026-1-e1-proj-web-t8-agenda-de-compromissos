@@ -10,7 +10,8 @@
 <th colspan="2">Perfil  Estudantes, Profissionais em Geral, Pais, Idosos </th>
 </tr>
 <tr>
-<td width="150px"><b>
+<td width="150px"><b>Descrisao</b></td>
+<td width="600px">
 1. Estudantes que precisem organizar uma rotina de estudos, 
 provas, entregas de trabalho, tarefas diárias; etc. 
 2. Profissionais que precisem ter uma rotina bem estabelecida, com 
@@ -22,8 +23,7 @@ crianças, e atividades do âmbito acadêmico dos filhos.
 4. Pessoas de idade avançada que podem ter uma rotina corrida ou 
 apresentar dificuldades de memória. Por isso, anotar 
 compromissos e tarefas é essencial para garantir que nada 
-importante seja esquecido. </b></td>
-<td width="600px">Teste</td>
+importante seja esquecido. </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
