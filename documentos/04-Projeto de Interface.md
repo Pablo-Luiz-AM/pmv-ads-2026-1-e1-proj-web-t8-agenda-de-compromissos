@@ -62,7 +62,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 <hr>
 <h3><b>Tela - Home Page</b></h3>
-<p>A tela de Editar Perfil realiza um método de redefinição de suas informações de usuário.</p>
+<p>A tela de Home Page, se trata de uma tela inicial com as informações principais para o usuário.</p>
   
 <img width="1297" height="729" alt="image" src="https://github.com/user-attachments/assets/063f87e2-1a80-4e33-a18e-8ce11ac2bd3b" />
 
@@ -73,7 +73,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 <hr>
 <h3><b>Tela - Criar Tarefa</b></h3>
-<p>A tela de Editar Perfil realiza um método de redefinição de suas informações de usuário.</p>
+<p>A tela de Criar Tarefa, trata-se de uma tela a onde o usuario pode cadastrar seus compromissos diarios.</p>
 
   <img width="1323" height="744" alt="image" src="https://github.com/user-attachments/assets/e8b7a883-286b-48f4-a354-9a0c95a31d77" />
 
@@ -85,44 +85,44 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 <hr>
 <h3><b>Tela - Gerenciar Tarefas</b></h3>
-<p>A tela de Editar Perfil realiza um método de redefinição de suas informações de usuário.</p>
+<p>A tela de Gerenciar Tarefas, trata-se de uma tela a onde o usuario pode editar ou excluir seus compromissos diarios.</p>
 
 <img width="1323" height="746" alt="image" src="https://github.com/user-attachments/assets/767f5fa3-1f8a-474f-a8ff-3bff8920fd45" />
 
 <figure> 
-  <figcaption>Figura 6 - Gerenciar Tarefas
+  <figcaption>Figura 7 - Gerenciar Tarefas
 </figure>
 
 <hr>
 <h3><b>Tela - Lixeira de Tarefas</b></h3>
-<p>A tela de Editar Perfil realiza um método de redefinição de suas informações de usuário.</p>
+<p>A tela de Lixeira de Tarefas, trata-se de uma tela a onde o usuario pode recuperar seus compromissos excluidos.</p>
 
 <img width="1324" height="746" alt="image" src="https://github.com/user-attachments/assets/cafba840-4655-438c-8b77-1b11bebcbe2e" />
 
 
 <figure> 
-  <figcaption>Figura 6 - Lixeira de Tarefas
+  <figcaption>Figura 8 - Lixeira de Tarefas
 </figure>
 
 
 <hr>
 <h3><b>Tela - Calendario Mensal</b></h3>
-<p>A tela de Editar Perfil realiza um método de redefinição de suas informações de usuário.</p>
+<p>A tela de Calendario Mensal permite ao usuário visualizar seus compromissos de forma mensal.</p>
 
 <img width="1324" height="746" alt="image" src="https://github.com/user-attachments/assets/8e9829f0-e681-4ce8-a737-af4eb60f2cb8" />
 
 <figure> 
-  <figcaption>Figura 6 - Calendario Mensal
+  <figcaption>Figura 9 - Calendario Mensal
 </figure>
 
 <hr>
 <h3><b>Tela - Calendario Semanal</b></h3>
-<p>A tela de Editar Perfil realiza um método de redefinição de suas informações de usuário.</p>
+<p>A tela de Calendario Mensal permite ao usuário visualizar seus compromissos de forma semanal.</p>
 
 <img width="1324" height="746" alt="image" src="https://github.com/user-attachments/assets/4ac5d7de-a14f-4a70-bf75-fba31d38f20d" />
 
 <figure> 
-  <figcaption>Figura 6 - Calendario Semanal
+  <figcaption>Figura 10 - Calendario Semanal
 </figure>
 
 <hr>
@@ -131,7 +131,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
   
 <img width="1325" height="745" alt="image" src="https://github.com/user-attachments/assets/20b9722e-bf88-43a9-88dc-91bafeff63c8" />
 <figure> 
-  <figcaption>Figura 5 - Editar Perfil
+  <figcaption>Figura 11 - Editar Perfil
 </figure>
 
 
