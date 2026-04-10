@@ -10,7 +10,7 @@
 <th colspan="2">Perfil Agendador</th>
 </tr>
 <tr>
-<td width="150px"><b>Descrisao</b></td>
+<td width="150px"><b>Descrição</b></td>
 <td width="600px">
 Pessoa que precisa organizar melhor a sua rotina e deixar de perder os horários. </td>
 
