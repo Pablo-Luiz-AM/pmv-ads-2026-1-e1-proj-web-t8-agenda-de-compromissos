@@ -1,7 +1,6 @@
 # Template padrão da Aplicação
 
-Template da Aplicação de Gerenciamento de Tarefas
-O layout do dashboard foi desenvolvido utilizando HTML5 para a estruturação semântica e CSS3 para a estilização visual, garantindo uma interface limpa e organizada por níveis de prioridade. O JavaScript é responsável pelo gerenciamento dinâmico das tarefas e do calendário.
+O layout do dashboard foi inicialmente concebido no Figma, permitindo a definição visual da interface, a organização dos elementos e a hierarquia por níveis de prioridade, resultando em uma interface limpa, moderna e intuitiva, com foco na experiência do usuário e na facilidade de gerenciamento das tarefas e do calendário.
 
 Elementos Padrão e Identidade Visual
 As páginas seguem um padrão visual focado em produtividade, com os seguintes elementos de identidade:
