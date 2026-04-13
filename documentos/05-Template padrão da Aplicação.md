@@ -30,9 +30,6 @@ Esta tela centraliza a organização pessoal do usuário através de quatro mód
 - O código para a lógica dos campos de entrada e a responsividade das colunas pode ser consultado nos arquivos de origem do projeto. Os ícones de sinalização (sirene, alerta e sino) estão disponíveis na biblioteca de ativos da aplicação.
 
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
 <hr>
 <h3><b>Tela de visualização de Tarefas</b></h3>
 <p>Exibe informações sobre as tarefas, a imagem da capa e o usuario com seu compromissos.</p>
